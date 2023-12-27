@@ -1,0 +1,17 @@
+@import "cssReset";
+@import "responsive";
+@import "header";
+@import "features";
+@import "cards";
+@import "pagination";
+@import "aboutSection";
+@import "contactSection";
+@import "footer";
+@import "crousel";
+@import "inputCounter";
+@import "buttons";
+
+.input-group-text {
+  color: #fff;
+  background-color: #222831;
+}

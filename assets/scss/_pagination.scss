@@ -1,0 +1,13 @@
+//pagination style
+.page-link {
+    color: #222831;
+  }
+  
+  .page-item.active .page-link {
+    color: #ffffff;
+    background-color: #222831;
+    border-color: #222831;
+  }
+  .page-link:hover {
+    color: #222831;
+  }

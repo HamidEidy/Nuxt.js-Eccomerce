@@ -1,0 +1,51 @@
+$yellow: #ffb000;
+$bold-gray: #222831;
+$pale-gray: #7e7e7e;
+$white: #ffffff;
+$red: #fc3a52;
+.btn {
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: $yellow;
+    color: $white;
+    border-radius: 10px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+}
+.btn:hover {
+    color: $bold-gray;
+    background-color: $yellow;
+    cursor: pointer;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.btn-gray{
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: $pale-gray;
+    color: $white;
+    border-radius: 10px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+}
+.btn-gray:hover{
+    color: $bold-gray;
+    cursor: pointer;
+}
+.btn-red{
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: $red;
+    color: $white;
+    border-radius: 10px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none; 
+}
+.btn-red:hover{
+    color: $bold-gray;
+    cursor: pointer;
+}

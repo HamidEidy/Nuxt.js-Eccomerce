@@ -1,0 +1,22 @@
+
+//start fatures styles
+.card-area {
+    .card-icon-wrapper {
+      display: block;
+      margin: 0 auto;
+      width: 3.75rem;
+      height: 3.75rem;
+      background: #222831;
+      transition: all ease-in-out 0.5s;
+      border-radius: 3.125rem;
+      .card-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+      }
+    }
+  }
+  
+  //end features styles
+  

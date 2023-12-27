@@ -1,0 +1,25 @@
+@import "bootstrap/dist/css/bootstrap.rtl.min.css";
+@import "./bootstrap-icons.css";
+@font-face {
+  font-family: "Vazir";
+  src: url(../fonts/Vazir.eot);
+  /* IE9 Compat Modes */
+  src: url(../fonts/Vazir.eot) format("embedded-opentype"),
+    url(../fonts/Vazir.woff2) format("woff2"),
+    url(../fonts/Vazir.woff) format("woff"),
+    url(../fonts/Vazir.ttf) format("truetype");
+  /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Peyda";
+  src: url(../fonts/PeydaWeb-Medium.woff) format("woff"),
+  url(../fonts/PeydaWeb-Medium.woff2) format("woff2"),
+  url(../fonts/PeydaWeb-ExtraBold.woff2) format("woff2"),
+  url(../fonts/PeydaWeb-ExtraBold.woff) format("woff"),
+  url(../fonts//PeydaWeb-Black.woff) format("woff"),
+  url(../fonts/PeydaWeb-Black.woff2) format("woff2"),
+  url(../fonts/PeydaWeb-Regular.woff) format("woff"),
+  url(../fonts/PeydaWeb-Regular.woff2) format("woff2"),
+  url(../fonts//PeydaWeb-SemiBold.woff) format("woff"),
+  url(../fonts/PeydaWeb-SemiBold.woff2) format("woff2"),
+}

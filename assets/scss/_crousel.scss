@@ -1,0 +1,20 @@
+//start crousel(sliders) styles
+.slider_section {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    height: 500px;
+    margin-top: 40px;
+    
+    
+  }
+  .carousel-inner {
+    border-radius: 10px;
+    position: relative;
+  }
+  //end crousel(sliders) styles
+  
